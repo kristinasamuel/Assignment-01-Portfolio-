@@ -14,7 +14,7 @@ function ResumePage() {
         </div>
       </section>
 
-      {/* Education Section,  give specific color,size,font*/}
+      {/* Education Section*/}
       <section className="bg-white p-8 rounded-lg shadow-lg w-full max-w-2xl mt-8">
         <h2 className="text-3xl font-semibold mb-4">Education</h2>
         <p className="mb-2">
@@ -48,9 +48,7 @@ function ResumePage() {
           <li>TypeScript : 60%</li>
         </ul>
       </section>
-    </div>
-    
+    </div>   
   )
 }
-
 export default ResumePage

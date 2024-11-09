@@ -4,7 +4,7 @@ import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 // import icons from react icon library
-import { FaAddressCard, FaEnvelope, FaPhone} from "react-icons/fa6";
+import { FaAddressCard, FaEnvelope} from "react-icons/fa6";
 function ContactPage() {
   return (
     <div className="flex flex-col items-center justify-center mt-10 min-h-screen">
