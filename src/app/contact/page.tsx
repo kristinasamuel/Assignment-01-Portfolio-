@@ -1,4 +1,5 @@
 // contact page
+"use client";
 // import Label ,Input ,Button from shadcn library 
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";

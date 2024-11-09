@@ -1,4 +1,5 @@
 // about page
+"use client";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { BiLogoTypescript } from "react-icons/bi";
 import { FaHtml5 } from "react-icons/fa6";
