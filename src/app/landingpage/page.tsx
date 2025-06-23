@@ -8,18 +8,18 @@ function MainPage() {
     return (
         <div className="flex flex-col md:flex-row items-center justify-center h-screen w-full">
           {/* Set Profile Image on the Left side */}
-          <div className="flex justify-center md:w-1/2 mb-8 md:mb-0">
+          <div className="flex justify-center md:w-1/2 mb-8 md:mb-0 mt-10">
             <Image
-              src="/images/profile.jpg" 
-              height={250}
-              width={250}
+              src="/images/profile_1.png" 
+              height={300}
+              width={300}
               alt="My image"
               className="rounded-full"
             />
           </div>
           <div className="flex flex-col items-center md:items-start justify-center text-center md:text-left md:w-1/2">
             {/* h1 introduction */}
-            <h2 className="text-4xl font-bold">Hi, I'M KARISTINA Samuel</h2>
+            <h2 className="text-4xl font-bold">Hi, I'M KARISTINA</h2>
     
             <h6 className="text-3xl md:text-4xl mt-4 font-bold text-teal-500 uppercase">
               {/* Typewriter Effect */}
