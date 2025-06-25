@@ -7,7 +7,7 @@ import { IoLogoCss3 } from "react-icons/io5";
 
 export default function AboutPage() {
   return (
-    <div className="min-h-screen md:p-4 p-6 ">
+    <div className="min-h-screen md:p-4 p-6">
       <h1 className="text-4xl font-bold text-center uppercase mt-5">About</h1>
 
       <div className="flex flex-col items-center justify-center max-w-4xl mx-auto p-4 mt-10 bg-white rounded-lg">

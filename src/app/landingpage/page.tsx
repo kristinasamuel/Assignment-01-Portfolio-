@@ -8,9 +8,9 @@ function MainPage() {
     return (
         <div className="flex flex-col md:flex-row items-center justify-center h-screen w-full">
           {/* Set Profile Image on the Left side */}
-          <div className="flex justify-center md:w-1/2 mb-8 md:mb-0 mt-10">
+          <div className="flex justify-center md:w-1/2 mb-8 md:mb-0 ">
             <Image
-              src="/images/profile_1.png" 
+              src="/images/profile.jpg" 
               height={300}
               width={300}
               alt="My image"
